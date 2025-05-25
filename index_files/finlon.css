@@ -842,7 +842,7 @@
 	--special-font: "reeyregular", sans-serif;
 	--thm-color: #68686f;
 	--thm-color-rgb: 104, 104, 111;
-	--thm-base: #F4A300;
+	--thm-base: #e63a27;
 	--thm-base-rgb: 230, 58, 39;
 	--thm-primary: #f7c35f;
 	--thm-primary-rgb: 247, 195, 95;
@@ -1609,7 +1609,7 @@ h6 {
 
 .main-menu__logo {
 	position: absolute;
-	top: -20px;
+	top: -40px;
 	left: 0;
 	width: 260px;
 	height: 120px;
@@ -2814,8 +2814,8 @@ h6 {
 	background-repeat: no-repeat;
 	background-position: top center;
 	background-blend-mode: luminosity;
-	padding-top: 86px;
-	padding-bottom: 60px;
+	padding-top: 126px;
+	padding-bottom: 110px;
 }
 
 .main-footer--extra-padding {
@@ -4325,7 +4325,7 @@ h6 {
 
 .service-card-two::before {
 	content: '';
-	width: 0px;
+	width: 165px;
 	height: 60px;
 	background-color: var(--thm-gray);
 	top: 50px;

@@ -842,7 +842,7 @@
 	--special-font: "reeyregular", sans-serif;
 	--thm-color: #68686f;
 	--thm-color-rgb: 104, 104, 111;
-	--thm-base: #e63a27;
+	--thm-base: #F4A300;
 	--thm-base-rgb: 230, 58, 39;
 	--thm-primary: #f7c35f;
 	--thm-primary-rgb: 247, 195, 95;
@@ -1609,7 +1609,7 @@ h6 {
 
 .main-menu__logo {
 	position: absolute;
-	top: -40px;
+	top: 10px;
 	left: 0;
 	width: 260px;
 	height: 120px;
@@ -5752,8 +5752,8 @@ h6 {
 .about-four__image__floated {
 	text-transform: uppercase;
 	color: #ffffff;
-	font-size: 130px;
-	font-weight: 900;
+	font-size: 80px;
+	font-weight: 700;
 	letter-spacing: 0em;
 	position: absolute;
 	left: calc(100% - 54px);
